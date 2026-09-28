@@ -1,0 +1,35 @@
+/* Contact page template */
+.zf-contact__header {
+  margin-bottom: 2rem;
+}
+
+.zf-contact__lead {
+  color: var(--zf-ink-soft);
+  font-size: 1.1rem;
+  max-width: 48ch;
+}
+
+.zf-contact__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 0.9fr);
+  gap: 2rem;
+  align-items: start;
+}
+
+.zf-contact__card {
+  background: var(--zf-surface);
+  border: 1px solid var(--zf-border);
+  border-radius: var(--zf-radius);
+  padding: 1.5rem;
+  box-shadow: var(--zf-shadow);
+}
+
+.zf-contact__card h2 {
+  font-size: 1.25rem;
+}
+
+@media (max-width: 800px) {
+  .zf-contact__grid {
+    grid-template-columns: 1fr;
+  }
+}

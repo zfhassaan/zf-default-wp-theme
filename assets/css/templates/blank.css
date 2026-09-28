@@ -1,0 +1,10 @@
+/* Blank canvas page template */
+body.zf-blank,
+body.zf-template-blank {
+  background: var(--zf-surface, #fff);
+}
+
+.zf-main--blank {
+  padding: 0;
+  min-height: 100vh;
+}

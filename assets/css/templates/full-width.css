@@ -1,0 +1,8 @@
+/* Full Width page template */
+.zf-template-full-width .zf-main--full {
+  padding-top: 2rem;
+}
+
+.zf-entry--full .zf-entry__header {
+  margin-bottom: 1.5rem;
+}

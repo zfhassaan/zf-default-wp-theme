@@ -1,0 +1,15 @@
+/*
+Theme Name: ZF Default
+Theme URI: https://github.com/zfhassaan
+Author: zfhassaan
+Author URI: https://github.com/zfhassaan
+Description: A clean, modular WordPress starter theme with a dynamic page-template registry. Drop PHP files into page-templates/ and register assets in inc/page-templates.php to extend the theme.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 8.0
+Text Domain: zfhassaan
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: custom-logo, custom-menu, featured-images, full-width-template, translation-ready, blog, one-column, two-columns
+*/
